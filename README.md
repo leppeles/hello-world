@@ -1,6 +1,8 @@
 # hello-world
 First repo for testing purposes
 
-Added first edit.
+Added fist edit.
 
 Edit from "readme-edits" branch
+
+// Edited first edit to fist, added this line in second branch
